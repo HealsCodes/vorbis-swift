@@ -1,0 +1,3 @@
+[submodule "vorbis-native"]
+	path = Sources/vorbis-swift/native
+	url = https://gitlab.xiph.org/xiph/vorbis.git
