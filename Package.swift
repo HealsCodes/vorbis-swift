@@ -35,6 +35,7 @@ let package = Package(
                 "./extra/vorbis_swift.h",
                 "./native/lib/analysis.c",
                 "./native/lib/backends.h",
+                // "./native/lib/barkmel.c", - barkmel scale utility
                 "./native/lib/bitrate.c",
                 "./native/lib/bitrate.h",
                 "./native/lib/block.c",
@@ -90,6 +91,8 @@ let package = Package(
                 "./native/lib/registry.h",
                 "./native/lib/res0.c",
                 "./native/lib/scales.h",
+                "./native/lib/sharedbook.c",
+                // "./native/lib/tone.c" - tone utility
                 "./native/lib/smallft.c",
                 "./native/lib/smallft.h",
                 "./native/lib/synthesis.c",
